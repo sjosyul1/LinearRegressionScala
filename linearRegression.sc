@@ -1,6 +1,3 @@
-/*This is to explore linear regression using MLlib
-2017-03-25 r.r
-*/
 
 package apps
 import java.util.Date
